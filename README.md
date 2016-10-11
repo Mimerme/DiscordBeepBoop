@@ -13,4 +13,4 @@ This is how it should look like
     "discordUsername" : <discord_email_used_to_log_in>,
     "discordPassword" : <discord_passasd>
 }
-```asd
+```
