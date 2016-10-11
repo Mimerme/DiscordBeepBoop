@@ -1,7 +1,7 @@
 # DiscordBeepBoop
 Neato Discord Server Bot
 
-## Config.jsasd
+## Config.js
 You'll probably need to setup config.js in the root of the project, otherwise you'll get a runtime error.
 
 This is how it should look like
