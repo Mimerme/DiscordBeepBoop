@@ -14,3 +14,17 @@ This is how it should look like
     "discordPassword" : <discord_passasd>
 }
 ```
+
+## Dependencies / Set Up
+The bot requires the following dependencies
+
+- Spotify Web Api Node
+- Discord.js
+
+Install With
+
+```
+npm install --save discord.js spotify-web-api-node
+```
+
+Discord.js requires native build tools and other dependencies check asd
