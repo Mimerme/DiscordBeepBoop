@@ -27,4 +27,4 @@ Install With
 npm install --save discord.js spotify-web-api-node
 ```
 
-Discord.js requires native build tools and other dependencies check asd
+Discord.js requires Node 6
